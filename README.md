@@ -1,0 +1,2 @@
+# Wite_SPOCustomList
+PowerShellを使ってSharePoint Onlineのカスタムリストに書き込むスクリプト
